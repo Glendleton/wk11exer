@@ -1,0 +1,6 @@
+/* 7)give your image a transition property with a value of "0.3s ease". */
+img {
+transition-property:all;
+transition-duration: 0.3s ease;
+}
+/* 8)create a class selector for a class called "fade" with a property of "opacity: 0". */
